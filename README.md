@@ -9,9 +9,9 @@
 - I've been in the technical field for 13 yrs.  I have held positions as end-user support for Apple and Android devices, Desktop Support for BlueCross BlueShield and Service Desk to support end-users at Presbyterian Hospitals.  Working the Service Desk, I have supported everything from E-Pads, PCs to life support systems.  I was also involed with training new Service Desk agents as well as support managers.
 
 - 📫 I can be reached at:
-      derekdanielson84@gmail.com
-      Linkedin @ devderek
-      (505) 328-0241
+- derekdanielson84@gmail.com
+- Linkedin: devderek
+- (505) 328-0241
       
 
 <!---
