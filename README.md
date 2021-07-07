@@ -1,4 +1,4 @@
-- 👋 Hi! I’m @DerekDanielson
+- 👋 Hi! I’m Derek Danielson
 
 - I'm currently attending Springboard FullStack program with the intent to become a front-end Developer.
 
