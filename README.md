@@ -1,7 +1,5 @@
 - 👋 Hi! I’m Derek Danielson
 
-- I'm currently attending Springboard FullStack program with the intent to become a front-end Developer.
-
 - I am currently looking for a role as a front-end Dev.
 
 - What I love and what motivates me in coding is the fact that it's like having super powers!  To be able to create anything is an amazing capability to me!
