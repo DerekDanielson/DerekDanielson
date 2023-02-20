@@ -9,6 +9,7 @@
 - 📫 I can be reached at:
 - derekdanielson84@gmail.com
 - Linkedin: devderek
+- Website: devderek.com
 - (505) 328-0241
       
 
